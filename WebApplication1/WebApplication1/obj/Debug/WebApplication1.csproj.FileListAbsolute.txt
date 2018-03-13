@@ -1,0 +1,475 @@
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ESTUDIANTE\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\Owin.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\WebGrease.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.pdb
+E:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\Owin.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.pdb
+D:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\Owin.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\WebGrease.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.pdb
+G:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+G:\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.SqlServer.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\Owin.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.pdb
+F:\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.SqlServer.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\admin\Dropbox\progra 4\Progra 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Owin.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\FirebirdSql.Data.FirebirdClient.pdb
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Documentos\Universidad\Progra 4\Correo web formulario\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
